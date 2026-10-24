@@ -1,0 +1,17 @@
+# Portfólio profissional — Djalma Barros do Amaral Junior
+
+## Conteúdo
+- `index.html`: site completo, responsivo, com experiência profissional, formação, cursos, competências e contato.
+- O LinkedIn já está configurado: https://www.linkedin.com/in/djalma-junior-495aa489
+
+## Visualizar localmente
+Abra `index.html` em um navegador.
+
+## Publicar gratuitamente no GitHub Pages
+1. Entre ou crie uma conta em https://github.com/
+2. Crie um repositório público chamado `SEUUSUARIO.github.io` (substitua pelo seu usuário GitHub).
+3. Envie o arquivo `index.html` para a raiz do repositório.
+4. Em Settings → Pages, configure a publicação pela branch `main` e pasta `/(root)`, caso solicitado.
+5. Depois que a publicação concluir, o site ficará no endereço `https://SEUUSUARIO.github.io/`.
+
+O site está pronto como arquivo, mas não é possível criar um endereço público real sem publicar numa plataforma. Revise especialmente as datas da Refrex, que coincidem parcialmente com a experiência na Marbow conforme o histórico disponível, e complete datas/instituições dos cursos que não foram informadas.
